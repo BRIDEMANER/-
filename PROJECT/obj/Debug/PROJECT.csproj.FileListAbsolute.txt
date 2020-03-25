@@ -1,0 +1,9 @@
+D:\!!!!!!!!!!!!!!!!учеба\Отстойник\PROJECT\PROJECT\bin\Debug\PROJECT.exe.config
+D:\!!!!!!!!!!!!!!!!учеба\Отстойник\PROJECT\PROJECT\bin\Debug\PROJECT.exe
+D:\!!!!!!!!!!!!!!!!учеба\Отстойник\PROJECT\PROJECT\bin\Debug\PROJECT.pdb
+D:\!!!!!!!!!!!!!!!!учеба\Отстойник\PROJECT\PROJECT\obj\Debug\PROJECT.csprojAssemblyReference.cache
+D:\!!!!!!!!!!!!!!!!учеба\Отстойник\PROJECT\PROJECT\obj\Debug\PROJECT.Form1.resources
+D:\!!!!!!!!!!!!!!!!учеба\Отстойник\PROJECT\PROJECT\obj\Debug\PROJECT.Properties.Resources.resources
+D:\!!!!!!!!!!!!!!!!учеба\Отстойник\PROJECT\PROJECT\obj\Debug\PROJECT.csproj.GenerateResource.cache
+D:\!!!!!!!!!!!!!!!!учеба\Отстойник\PROJECT\PROJECT\obj\Debug\PROJECT.exe
+D:\!!!!!!!!!!!!!!!!учеба\Отстойник\PROJECT\PROJECT\obj\Debug\PROJECT.pdb
